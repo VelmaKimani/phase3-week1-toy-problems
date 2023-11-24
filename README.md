@@ -51,5 +51,8 @@ For the word "strength", solve("strength") = 57.
 
 _The consonant substrings are: "str" and "ngth" with values "str" = 19 + 20 + 18 = 57 and "ngth" = 14 + 7 + 20 + 8 = 49. The highest is 57._
 
+## Running the code
+Press the run button in VSCode IDE
+
 ## Licence
  This project is Licensed under MIT. 
